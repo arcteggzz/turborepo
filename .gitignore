@@ -63,3 +63,6 @@ file_descriptor_set.bin
 
 # include test fixtures for vt100
 !crates/turborepo-vt100/tests/data
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
